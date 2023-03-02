@@ -6,7 +6,7 @@
 
 ## :mailbox: Контакты
 
-[Telegram](https://t.me/evgenylyozin)
-[GMail](mailto://evgenylyozindev@gmail.com)
+[![Телеграм](./icons/tg.png)](https://t.me/evgenylyozin)
+[![gmail](./icons/gmail.png)](mailto://evgenylyozindev@gmail.com)
 
 ## :handshake: Поддержать
