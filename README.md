@@ -6,10 +6,12 @@
 
 ## Проекты с открытым исходным кодом
 
+### Шаблоны объектно-ориентированного и функционального программирования для Javascript, Typescript и Go
+
+[Шаблоны ООП и ФП](https://github.com/evgenylyozin/patterns)
+
 ## Контакты
 
 [![телеграм](./icons/telegram.png)](https://t.me/evgenylyozin)
 [![gmail](./icons/gmail.png)](mailto:evgenylyozindev@gmail.com)
 [![yandex mail](./icons/email.png)](mailto:evgenylyozindev@yandex.ru)
-
-## Поддержать
