@@ -12,6 +12,6 @@
 
 ## Контакты
 
-[![телеграм](./icons/telegram.png)](https://t.me/evgenylyozin)
+[![телеграм](./icons/telegram.png)](https://t.me/evgenylyozindev)
 [![gmail](./icons/gmail.png)](mailto:evgenylyozindev@gmail.com)
 [![yandex mail](./icons/email.png)](mailto:evgenylyozindev@yandex.ru)
