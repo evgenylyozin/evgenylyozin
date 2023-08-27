@@ -7,8 +7,19 @@
 ## Проекты с лицензией MIT
 
 ### Шаблоны объектно-ориентированного и функционального программирования для Javascript, Typescript и Go
-
 ***[Шаблоны ООП и ФП](https://github.com/evgenylyozin/patterns)***
+### Серверы https (протоколы http 1.1, http 2) на базе Node.js. Обрабатывают все основные типы запросов, работают с файлами. В репозиторий включен файл запросов для Postman (для теста серверов). 
+***[Https (http1.1 и http2) серверы на NodeJS](https://github.com/evgenylyozin/nodejs-https-servers)***
+### Готовая среда для написания и запуска кода Typescript и Go в vscode + полезные структуры данных и алгоритмы для решения алгоритмических задач
+***[Leetcode playgrounds](https://github.com/evgenylyozin/leetcode-playgrounds)***
+### Вебсервер на Go, обрабатывающий шаблоны, отдающий статику. К фронтенду подключен React. Реакт часть интегрирована с тайпскриптом для удобства разработки
+***[Вебсевер на Go + ReactJS](https://github.com/evgenylyozin/go-server-with-react)***
+### MERN стак с примерами CRUD операций, в том числе с крупными файлами
+***[MERN стак с примерами CRUD операций](https://github.com/evgenylyozin/generic-mern-app)***
+### Полезные функции высшего порядка, функции работы с объектами и т.п.
+***[Функции высшего порядка на TypeScript](https://github.com/evgenylyozin/js-utilities)***
+### Шаблон для начала разработки приложения с использованием Electron
+***[Electron + Typescript + Eslint setup](https://github.com/evgenylyozin/electron-typescript-eslint-setup)***
 
 ## Контакты
 
