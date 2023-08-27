@@ -12,8 +12,8 @@
 ***[Https (http1.1 и http2) серверы на NodeJS](https://github.com/evgenylyozin/nodejs-https-servers)***
 ### Готовая среда для написания и запуска кода Typescript и Go в vscode + полезные структуры данных и алгоритмы для решения алгоритмических задач
 ***[Leetcode playgrounds](https://github.com/evgenylyozin/leetcode-playgrounds)***
-### Вебсервер на Go, обрабатывающий шаблоны, отдающий статику. К фронтенду подключен React. Реакт часть интегрирована с тайпскриптом для удобства разработки
-***[Вебсевер на Go + ReactJS](https://github.com/evgenylyozin/go-server-with-react)***
+### Веб-сервер на Go, обрабатывающий шаблоны, отдающий статику. К фронтенду подключен React. Реакт часть интегрирована с тайпскриптом для удобства разработки
+***[Веб-север на Go + ReactJS](https://github.com/evgenylyozin/go-server-with-react)***
 ### MERN стак с примерами CRUD операций, в том числе с крупными файлами
 ***[MERN стак с примерами CRUD операций](https://github.com/evgenylyozin/generic-mern-app)***
 ### Полезные функции высшего порядка, функции работы с объектами и т.п.
