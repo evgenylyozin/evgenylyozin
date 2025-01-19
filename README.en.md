@@ -1,6 +1,6 @@
 # Hello, my name is Evgeniy
 
-Russian version of this md file can be found [here](https://github.com/evgenylyozin)
+Версия на русском языке [здесь](https://github.com/evgenylyozin)
 
 ## About me
 
