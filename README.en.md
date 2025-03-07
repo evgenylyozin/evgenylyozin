@@ -9,6 +9,8 @@ I am actively involved in web development, I write in **Javascript**, **Typescri
 ## Projects with MIT license
 ### Intervals without the risk of registering the same operation twice and preserving the order of calling asynchronous operations and their results
 ***[Safe Interval](https://github.com/evgenylyozin/safe-interval)***
+### NPX utility for creating an NPM package template 
+***[Strap Package](https://github.com/evgenylyozin/strap-package)***
 ### Object-oriented and functional programming patterns for Javascript, Typescript and Go
 ***[OOP and FP Patterns](https://github.com/evgenylyozin/patterns)***
 ### https servers (http 1.1, http 2 protocols) based on Node.js. They process all the main types of requests, work with files. The repository includes a request file for Postman (for testing)
@@ -19,8 +21,6 @@ I am actively involved in web development, I write in **Javascript**, **Typescri
 ***[Go web server + ReactJS](https://github.com/evgenylyozin/go-server-with-react)***
 ### MERN stack with examples of CRUD operations, including working with large files
 ***[MERN stack with examples of CRUD operations](https://github.com/evgenylyozin/generic-mern-app)***
-### Useful higher-order functions, functions for working with objects, etc.
-***[Higher-order functions in TypeScript](https://github.com/evgenylyozin/js-utilities)***
 ### Template for starting application development using Electron
 ***[Electron + Typescript + Eslint setup](https://github.com/evgenylyozin/electron-typescript-eslint-setup)***
 
