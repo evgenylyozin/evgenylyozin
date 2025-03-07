@@ -9,6 +9,8 @@ English version of this md file can be found [here](https://github.com/evgenylyo
 ## Проекты с лицензией MIT
 ### Интервалы без риска зарегистрировать одну и ту же операцию дважды и с сохранением порядка вызова асинхронных операций и их результатов 
 ***[Safe Interval](https://github.com/evgenylyozin/safe-interval)***
+### NPX утилита для создания шаблона NPM пакета 
+***[Strap Package](https://github.com/evgenylyozin/strap-package)***
 ### Шаблоны объектно-ориентированного и функционального программирования для Javascript, Typescript и Go
 ***[Шаблоны ООП и ФП](https://github.com/evgenylyozin/patterns)***
 ### Серверы https (протоколы http 1.1, http 2) на базе Node.js. Обрабатывают все основные типы запросов, работают с файлами. В репозиторий включен файл запросов для Postman (для теста серверов). 
@@ -19,8 +21,6 @@ English version of this md file can be found [here](https://github.com/evgenylyo
 ***[Веб-север на Go + ReactJS](https://github.com/evgenylyozin/go-server-with-react)***
 ### MERN стак с примерами CRUD операций, в том числе с крупными файлами
 ***[MERN стак с примерами CRUD операций](https://github.com/evgenylyozin/generic-mern-app)***
-### Полезные функции высшего порядка, функции работы с объектами и т.п.
-***[Функции высшего порядка на TypeScript](https://github.com/evgenylyozin/js-utilities)***
 ### Шаблон для начала разработки приложения с использованием Electron
 ***[Electron + Typescript + Eslint setup](https://github.com/evgenylyozin/electron-typescript-eslint-setup)***
 
